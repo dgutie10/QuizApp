@@ -24,6 +24,7 @@
 
     <!--Question 4-->
     <string name="question_4">4. How many ports are allocated for new emulator?</string>
+    <string name="result_text"> out of 4 correct !!</string>
 
 
 </resources>

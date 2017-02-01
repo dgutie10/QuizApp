@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <!--Question 1-->
+    <string name="question_1">1. Can a user save all database updates in onStop ()?</string>
+    <string name="q1_a">Yes, a user can save all database updates in onStop()</string>
+    <string name="q1_b">No, a user can save in onSavedInstance()</string>
+    <string name="q1_c">No, a user can save in a Bundle()</string>
+    <string name="q1_d">No, In some situations, a user can\'t reach onStop()</string>
+
+    <!--Question 2-->
+    <string name="question_2">2. What are the layouts available in android?</string>
+    <string name="q2_a">Linear Layout</string>
+    <string name="q2_b">Frame Layout </string>
+    <string name="q2_c">Table Layout</string>
+    <string name="q2_d">Relative Layout </string>
+
+    <!--Question 3-->
+    <string name="question_3">3. What is the application class in android?</string>
+    <string name="q3_a">A class that can create only an object</string>
+    <string name="q3_b">Anonymous class</string>
+    <string name="q3_c">Java class</string>
+    <string name="q3_d">Base class for all classes</string>
+
+    <!--Question 4-->
+    <string name="question_4">4. How many ports are allocated for new emulator?</string>
+
+
+</resources>
